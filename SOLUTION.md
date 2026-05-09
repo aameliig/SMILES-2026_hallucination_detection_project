@@ -6,7 +6,7 @@ Same as in the main project repository (https://github.com/ahdr3w/SMILES-2026-Ha
 
 I recommend open the terminal in Colab and run:
 ```bash
-git clone 
+git clone https://github.com/aameliig/SMILES-2026_hallucination_detection_project.git
 cd SMILES-HALLUCINATION-DETECTION
 pip install -r requirements.txt
 python solution.py
